@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.DS_Store
+.venv*/
+paper/figures/*.pdf
+check/
+processed_data/
+external/
+wandb/
+*.ckpt
+*.pt
+*.pth
