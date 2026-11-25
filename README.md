@@ -226,6 +226,7 @@ Only the two from-scratch arms share initialization and batch order.
   booktitle = {Proceedings of the Twentieth ACM International Conference on
                Web Search and Data Mining (WSDM '27)},
   year      = {2027},
-  publisher = {ACM}
+  publisher = {ACM},
+  doi       = {10.1145/3862322.3863600}
 }
 ```

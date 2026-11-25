@@ -1,7 +1,7 @@
 # artifact manifest (sha256  size  path)
 664abf8832dcb0737206c66909b3fe4ba9ce555a8e5e2195773e87c3e8479ba4  167  .gitignore
 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4  11357  LICENSE
-e4753bdb6423b934ee89bc3cfb6aee41114a409fe6c117862952b7b54ac720df  8939  README.md
+880914fb927d1e8b76676761dfee32242d6266ea046edd96beadfec6be6a8d74  8980  README.md
 3e36636183ce404ad1ffc47296b62a6f09de8994695ea2d646d6c00a8edbe4a9  4366  code/analyze_jlens.py
 05c404a1a7d1d722de5832618a194a1ee96c0d21a02519be45113f2a379dca61  2171  code/analyze_jlens_competitor_sensitivity.py
 49fa4acc3c66d0c0394736c14ec3a7c72bc361f1d7eecbe50711fce0f285533b  4739  code/analyze_jlens_lxr_retrain.py
